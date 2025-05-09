@@ -1,5 +1,5 @@
 **AI Based Terra Alert System **
-This project introduces a real-time landslide detection system called **Terrain Guard**, integrating **AI, ML, and IoT** technologies to predict and monitor landslide risks efficiently. It leverages **accelerometers, vibration sensors, and GPS modules** for real-time environmental monitoring. The system's **ARM Cortex-based controller** processes data to detect anomalies, and the integrated **Random Forest algorithm** predicts potential landslides. Alerts are sent to users and authorities via **SMS and the Blynk app**, enhancing preparedness and safety.
+**This project introduces a real-time landslide detection system called **Terrain Guard**, integrating **AI, ML, and IoT** technologies to predict and monitor landslide risks efficiently. It leverages **accelerometers, vibration sensors, and GPS modules** for real-time environmental monitoring. The system's **ARM Cortex-based controller** processes data to detect anomalies, and the integrated **Random Forest algorithm** predicts potential landslides. Alerts are sent to users and authorities via **SMS and the Blynk app**, enhancing preparedness and safety.
 
 💡 **Features**
 
